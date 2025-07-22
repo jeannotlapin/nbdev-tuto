@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://jeannotlapin.github.io',
                 'git_url': 'https://github.com/jeannotlapin/nbdev-tuto',
                 'lib_path': 'nbdev_tuto'},
-  'syms': {'nbdev_tuto.core': {'nbdev_tuto.core.foo': ('core.html#foo', 'nbdev_tuto/core.py')}}}
+  'syms': { 'nbdev_tuto.core': {'nbdev_tuto.core.foo': ('core.html#foo', 'nbdev_tuto/core.py')},
+            'nbdev_tuto.nbdev-tuto': { 'nbdev_tuto.nbdev-tuto.foo': ('core.html#foo', 'nbdev_tuto/nbdev-tuto.py'),
+                                       'nbdev_tuto.nbdev-tuto.say_hello': ('core.html#say_hello', 'nbdev_tuto/nbdev-tuto.py')}}}
