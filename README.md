@@ -61,7 +61,7 @@ can find package manager specific guidelines on
 Fill me in please! Don’t forget code examples:
 
 ``` python
-1+1
+1+12
 ```
 
-    2
+    13
