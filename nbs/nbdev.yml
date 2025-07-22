@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-tuto"
+  site-url: "https://jeannotlapin.github.io/nbdev-tuto"
+  description: "nbdev tutos"
+  repo-branch: main
+  repo-url: "https://github.com/jeannotlapin/nbdev-tuto"
